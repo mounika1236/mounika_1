@@ -1,0 +1,3 @@
+hello 
+my new editing into the file text1.txt
+
